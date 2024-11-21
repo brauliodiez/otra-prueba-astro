@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/markdown-post.astro
 title: Mi Segundo Post
 author: Lemoncoder
 description: "Segundo post para el ejemplo"
